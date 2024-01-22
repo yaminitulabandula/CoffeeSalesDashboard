@@ -1,9 +1,9 @@
 # Coffee Sales Dashboard
-Coffee Sales Dashboard using Excel
+##### Coffee Sales Dashboard using Excel
 ![Screenshot (55)](https://github.com/yaminitulabandula/CoffeeSalesDashboard/assets/113737709/22daa913-0806-4ffe-b75e-400ce2ca1108)
 
 
-Coffee Sales Dashboard using Excel
+##### Coffee Sales Dashboard using PowerBI
 ![Screenshot (56)](https://github.com/yaminitulabandula/CoffeeSalesDashboard/assets/113737709/86febe9b-f94c-4afd-86ca-4c20c8cf3a5c)
 
 
