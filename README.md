@@ -1,5 +1,6 @@
 # Coffee Sales Dashboard
 Coffee Sales Dashboard using Excel and PowerBI 
+![Screenshot (55)](https://github.com/yaminitulabandula/CoffeeSalesDashboard/assets/113737709/22daa913-0806-4ffe-b75e-400ce2ca1108)
 
 This dashboard provides a comprehensive overview of coffee sales data, presenting trends, volumes, and key metrics that drive business decisions for a coffee retailer. The data is represented through various interactive elements, allowing for a granular analysis of sales performance over time, by country, and customer purchasing behavior.
 
